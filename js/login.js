@@ -15,7 +15,7 @@ console.log(pinNumber);
 
 if(phoneNumber === '0123456789' && pinNumber === '123456'){
     console.log('You are logged in');
-    window.location.href = '/home.html';
+    window.location.href = 'home.html';
 }
 else{
     alert('Wrong phone number or pin');
