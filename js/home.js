@@ -5,7 +5,10 @@ step-1: add event handler
 
 step-2: get money to be added to the account
 >get the pin number
-step-3:
+step-3: Verify the pin number
+step-4: get current balance
+step-5: add input balance and current balance
+step-6: update the balance
 */
 
 
